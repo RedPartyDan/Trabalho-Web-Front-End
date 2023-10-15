@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Play:wght@700&display=swap');
+
+:root{
+    
+    --cor00: white;
+    --cor01: #00487C;
+    --cor02: #8CA0D7;
+    --cor03: #D62839;
+    --cor04: #C40512; 
+    --cor05: rgba(109, 1, 1, 0.979);
+    --cor06: lightcoral;
+    --cor07: black;
+    --cor08: rgb(60, 67, 133, 0.74);
+
+    --fontText: 'Montserrat', sans-serif;
+    --fontTitle: 'Play', sans-serif;
+}
