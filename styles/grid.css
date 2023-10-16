@@ -24,5 +24,6 @@
         display: grid;
         grid-template-areas: "header header" "navigation content" "footer footer";
         grid-template-columns: 290px 1fr;
+        background-attachment: fixed;
     }
 }
